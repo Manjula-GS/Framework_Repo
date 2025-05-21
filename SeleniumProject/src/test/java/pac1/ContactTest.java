@@ -19,9 +19,14 @@ public class ContactTest {
 		System.out.println("execute createContactTest");
 	}
 	@Test
-	public void ModifyContactTest()
+	public void modifyContactTest()
 	{
 		System.out.println("execute ModifyContactTest");
+	}
+	@Test
+	public void deleteContactTest()
+	{
+		System.out.println("execute DeleteContactTest");
 	}
 
 }
